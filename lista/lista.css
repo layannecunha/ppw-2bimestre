@@ -1,0 +1,10 @@
+body{
+    background-color: silver
+}
+.lista {
+    list-style-type: none;
+    text-decoration: underline;
+}
+.lista {
+    list-style-type: circle;
+}

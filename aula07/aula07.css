@@ -1,0 +1,14 @@
+
+.wrraper{
+    boder: 1 px soli black;
+}
+.box{
+
+}
+.foto{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    border-end-end-radius: 19px;
+    
+}
